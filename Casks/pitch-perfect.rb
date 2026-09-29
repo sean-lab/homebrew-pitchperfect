@@ -1,6 +1,6 @@
 cask "pitch-perfect" do
-  version "0.1.0"
-  sha256 "20dd06ea5d7c8c2f50f81efbbfedcc722fc84f321eadea9772daeb7430704a56"
+  version "0.1.1"
+  sha256 "1e56de5bd7cc9e6d8367dec68d077d6f4eabe85e5a5ec93eb95de965cf0da250"
 
   url "https://github.com/sean-lab/homebrew-pitchperfect/releases/download/v#{version}/PitchPerfect-#{version}-universal.zip"
   name "Pitch Perfect"

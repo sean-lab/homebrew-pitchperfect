@@ -6,7 +6,7 @@
   <p>
     <img src="https://img.shields.io/badge/macOS-14%2B-1677FF?style=flat-square" alt="macOS 14 and later">
     <img src="https://img.shields.io/badge/Apple%20Silicon%20%2B%20Intel-Universal-454545?style=flat-square" alt="Universal app for Apple Silicon and Intel">
-    <img src="https://img.shields.io/badge/release-0.1.0%20preview-805AD5?style=flat-square" alt="0.1.0 preview">
+    <img src="https://img.shields.io/badge/release-0.1.1%20preview-805AD5?style=flat-square" alt="0.1.1 preview">
   </p>
   <p><a href="#install">Install</a> · <a href="#how-it-plays">How it plays</a> · <a href="https://github.com/sean-lab/homebrew-pitchperfect/releases">Releases</a> · <a href="README.ko.md">한국어</a></p>
 </div>
@@ -37,7 +37,7 @@ Requires **macOS 14 Sonoma or later**. One universal app supports **Apple Silico
 
 Prefer a manual download? Get the ZIP from [Releases](https://github.com/sean-lab/homebrew-pitchperfect/releases), extract it, and move `Pitch Perfect.app` to Applications.
 
-> **Preview release:** 0.1.0 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
+> **Preview release:** 0.1.1 is ad-hoc signed and not notarized by Apple. macOS may require approval in **System Settings → Privacy & Security** before opening it. This cask does not bypass Gatekeeper or change security settings.
 
 **Singing tips.** Headphones keep the accompaniment out of the microphone, so judging is more accurate. On a MacBook with its lid closed the built-in microphone is off; open the lid or choose another microphone on the range card ("마이크 바꾸기").
 
