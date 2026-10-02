@@ -3,7 +3,7 @@
   <h1>Pitch Perfect</h1>
   <p><strong>노래하면, 날아요.</strong></p>
   <p>목소리의 음정으로 종이 아기 오리를 날리는 Mac 노래 게임.</p>
-  <p>macOS 14 이상 · Apple Silicon & Intel · 0.1.1 Preview</p>
+  <p>macOS 14 이상 · Apple Silicon & Intel · 0.1.2 Preview</p>
   <p><a href="#설치">설치</a> · <a href="#이렇게-놀아요">이렇게 놀아요</a> · <a href="https://github.com/sean-lab/homebrew-pitchperfect/releases">다운로드</a> · <a href="README.md">English</a></p>
 </div>
 
@@ -33,7 +33,7 @@ brew install --cask sean-lab/pitchperfect/pitch-perfect
 
 직접 설치하려면 [Releases](https://github.com/sean-lab/homebrew-pitchperfect/releases)에서 ZIP을 내려받아 압축을 풀고 `Pitch Perfect.app`을 응용 프로그램 폴더로 옮기세요.
 
-> **Preview 릴리스:** 0.1.1은 ad-hoc 서명만 되어 있고 Apple 공증을 받지 않았습니다. 처음 열 때 **시스템 설정 → 개인정보 보호 및 보안**에서 허용이 필요할 수 있습니다. 이 cask는 Gatekeeper를 우회하거나 보안 설정을 바꾸지 않습니다.
+> **Preview 릴리스:** 0.1.2는 ad-hoc 서명만 되어 있고 Apple 공증을 받지 않았습니다. 처음 열 때 **시스템 설정 → 개인정보 보호 및 보안**에서 허용이 필요할 수 있습니다. 이 cask는 Gatekeeper를 우회하거나 보안 설정을 바꾸지 않습니다.
 
 **노래 팁.** 이어폰을 쓰면 반주가 마이크에 섞이지 않아 판정이 정확해집니다. MacBook 뚜껑을 닫아 두면 내장 마이크가 꺼지니, 뚜껑을 열거나 음역 맞추기 카드의 "마이크 바꾸기"에서 다른 마이크를 고르세요.
 
